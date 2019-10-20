@@ -69,4 +69,4 @@ if __name__ == "__main__":
     session = vk.AuthSession('id', 'log', 'pass')
     vk_api = vk.API(session)
 
-user.userInfo(125,1,6, 19,19)
+user.userInfo(125,1,6, 19,1)
